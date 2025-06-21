@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+Name: Ashish Augustine
+Pronouns: He/Him
+Role: Software Engineer
+Available for Hire: ✅
+Current Focus: Java NodeJS Python 🐍 | Bash Shell  TypeScript 🗾 | Rust 🦠
+Based in: 🌍 Somewhere between code and caffeine
+
+
 <!--
 **ashish-augustine/ashish-augustine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
