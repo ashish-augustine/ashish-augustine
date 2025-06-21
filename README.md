@@ -61,8 +61,8 @@ I believe in **declarative infrastructure**, **immutable deployments**, and **fa
 
 ### 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)  
-[![Blog](https://img.shields.io/badge/Blog-%F0%9F%93%9A-orange?style=flat)](https://yourblog.dev)  
-[![Resume](https://img.shields.io/badge/Resume-PDF-blue)](https://yourdomain.dev/resume.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yoxxxxxxxxxxxxurprofile)  
+[![Blog](https://img.shields.io/badge/Blog-%F0%9F%93%9A-orange?style=flat)](https://yourbxxxxxxxxxxxxxxxxlog.dev)  
+[![Resume](https://img.shields.io/badge/Resume-PDF-blue)](https://yourdomain.dev/resumxxxxxxxxxxxxxxe.pdf)
 
 ---
