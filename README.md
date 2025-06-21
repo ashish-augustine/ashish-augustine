@@ -22,3 +22,47 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+
+## 🚀 DevOps Engineer | Cloud | Automation | Reliability
+
+Hi there! I'm a **DevOps Engineer** passionate about building scalable systems, automating everything, and ensuring rock-solid uptime. I bridge the gap between development and operations to deliver secure, efficient, and high-performing infrastructure.
+
+---
+
+### 🛠️ Core Competencies
+
+- ⚙️ **CI/CD Pipelines** – Jenkins, GitHub Actions, GitLab CI, ArgoCD  
+- ☁️ **Cloud Platforms** – AWS, Azure, GCP  
+- 🐳 **Containers & Orchestration** – Docker, Kubernetes, Helm  
+- 🧰 **Infrastructure as Code** – Terraform, Pulumi, AWS CDK  
+- 📊 **Monitoring & Logging** – Prometheus, Grafana, ELK Stack, Loki  
+- 🔐 **Security & Compliance** – IAM, Vault, CIS Benchmarks, Snyk  
+- 📦 **Artifact Management** – Nexus, JFrog Artifactory  
+- 🧪 **Testing & Quality** – SonarQube, Selenium, Testcontainers  
+
+---
+
+### 🚧 Philosophy
+
+> **"Automate what you hate. Scale what you love."**  
+I believe in **declarative infrastructure**, **immutable deployments**, and **fail-fast strategies** to build systems that are resilient, observable, and developer-friendly.
+
+---
+
+### 📂 Featured Projects
+
+- **🔐 Secure AWS Multi-Account Landing Zone** – Terraform, Control Tower, IAM Identity Center  
+- **⚙️ GitOps Kubernetes Platform** – ArgoCD + EKS + Helm Charts  
+- **📈 Full-stack Monitoring Stack** – Self-hosted Prometheus, Loki, Grafana Dashboards  
+
+---
+
+### 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/yourprofile)  
+[![Blog](https://img.shields.io/badge/Blog-%F0%9F%93%9A-orange?style=flat)](https://yourblog.dev)  
+[![Resume](https://img.shields.io/badge/Resume-PDF-blue)](https://yourdomain.dev/resume.pdf)
+
+---
