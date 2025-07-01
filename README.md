@@ -4,7 +4,7 @@
 - Pronouns: He/Him
 - Role: Software Engineer
 - Available for Hire: ✅
-- Current Focus: Java NodeJS Python 🐍 | Bash Shell  TypeScript 🗾 | Rust 🦠
+- Current Focus: DevOps | Java | NodeJS | Python 🐍 | Bash | Shell | TypeScript 🗾   
 - Based in: 🌍 Somewhere between code and caffeine
 
 
